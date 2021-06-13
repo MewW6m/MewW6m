@@ -1,6 +1,6 @@
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/MewW6m/posts.svg)](http://qiita.com/MewW6m) [![My Qiita contributions](https://qiita-badge.apiapi.app/s/MewW6m/contributions.svg)](http://qiita.com/MewW6m)
 
-<p align="left">
+<p align="left" class="icons-div">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a>
@@ -33,3 +33,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MewW6m&hide=CSS,SCSS,SHELL,html&theme=monokai&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+<style>
+.icons-div {
+    padding: 10px;
+    background-color: rgb(39,40,34);
+    border-radius: 5px;
+    border: 1px solid white;
+}
+  
+.icons-div img {
+    background-color: initial;  
+}
+</style>
