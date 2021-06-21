@@ -26,9 +26,9 @@
     background-color: rgb(39,40,34);
     border-radius: 5px;
     border: 1px solid white;">
-    <a href="#"><img src="https://camo.qiitausercontent.com/772b37acf9f11f0db314b68d28313d37d0e004ad/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f3238363138392f64396562306331642d656639342d643762632d663733382d3065323265373961393433332e706e67" width="40" height="40" style="background-color: initial;"></a>
-    <a href="#"><img src="https://camo.qiitausercontent.com/d8f8de031ba7330cfc9fd4bcfabd30986cc61b78/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f3238363138392f64316232396239372d653832652d623832622d356464382d3634333238396163393061662e706e67" width="40" height="40" style="background-color: initial;"></a>
-    <a href="#"><img src="https://camo.qiitausercontent.com/85daf5993caf3212c310a4da7bc5c39e6466e977/68747470733a2f2f71696974612d696d6167652d73746f72652e73332e61702d6e6f727468656173742d312e616d617a6f6e6177732e636f6d2f302f3238363138392f31626135383666622d613535312d616532302d353930352d3933666261613535613066642e706e67" width="40" height="40" style="background-color: initial;"></a>
+    <a href="#"><img src="./ip.png" width="40" height="40" style="background-color: initial;"></a>
+    <a href="#"><img src="./sg.png" width="40" height="40" style="background-color: initial;"></a>
+    <a href="#"><img src="./fe.png" width="40" height="40" style="background-color: initial;"></a>
     <a href="#"><img src="./lpic.png" width="40" height="40" style="background-color: initial;"></a>
     <a href="#"><img src="./java.png" width="40" height="40" style="background-color: initial;"></a>
 </p>
