@@ -26,11 +26,11 @@
     background-color: rgb(39,40,34);
     border-radius: 5px;
     border: 1px solid white;">
-    <a href="#" title="ITパスポート"><img src="./ip.png" width="40" height="40" style="background-color: initial;"></a>
-    <a href="#" title="情報セキュリティマネジメント"><img src="./sg.png" width="40" height="40" style="background-color: initial;"></a>
-    <a href="#" title="基本情報技術者"><img src="./fe.png" width="40" height="40" style="background-color: initial;"></a>
-    <a href="#" title="LPIC1"><img src="./lpic.png" width="40" height="40" style="background-color: initial;"></a>
-    <a href="#" title="JavaSilver"><img src="./java.png" width="40" height="40" style="background-color: initial;"></a>
+    <a href="https://www.jitec.ipa.go.jp/1_11seido/ip.html" title="ITパスポート"><img src="./ip.png" width="40" height="40" style="background-color: initial;"></a>
+    <a href="https://www.jitec.ipa.go.jp/1_11seido/sg.html" title="情報セキュリティマネジメント"><img src="./sg.png" width="40" height="40" style="background-color: initial;"></a>
+    <a href="https://www.jitec.ipa.go.jp/1_11seido/fe.html" title="基本情報技術者"><img src="./fe.png" width="40" height="40" style="background-color: initial;"></a>
+    <a href="https://www.lpi.org/ja/our-certifications/lpic-1-overview?gclid=CjwKCAjwsNiIBhBdEiwAJK4khlSr_3k55DEmV0Z_rs9-RjTjLQQ0g0uoxCpq9J55rNkHclFNfuJTrRoCh7AQAvD_BwE" title="LPIC1"><img src="./lpic.png" width="40" height="40" style="background-color: initial;"></a>
+    <a href="https://www.oracle.com/jp/education/certification/jse8-2489021-ja.html" title="JavaSilver"><img src="./java.png" width="40" height="40" style="background-color: initial;"></a>
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MewW6m&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
